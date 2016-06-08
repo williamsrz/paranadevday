@@ -16,6 +16,14 @@
     padding-top: 4rem
 }
 
+.dev-day {
+    margin-bottom: 80px; font-size: 2.3em; font-weight: 100;letter-spacing: -1px;
+}
+
+.parana {
+    margin-top: 60px;border-bottom: 1px solid rgba(160,160,160,0.2);padding-bottom: 20px;
+}
+
 #index-banner {
     min-height: 632px;
     max-height: 864px;
