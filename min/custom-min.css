@@ -41,6 +41,7 @@
 }
 
 .text_h {
+    margin-top: 120px;
     font-size: 6.0em;
     font-weight: 100;
     color: white
@@ -110,6 +111,26 @@
 
 .card-content a:hover {
     color: #399F53
+}
+
+.palestrante-avatar {
+    width: 180px;
+    height: 180px;
+}
+
+.palestrante-card {
+    margin-bottom: 20px
+}
+
+.palestrante-nome {
+    font-size: 0.9em;
+    font-weight: 100;
+}
+
+
+.palestrante-nome span {
+    font-size: 1.2em;
+     font-weight: 400;
 }
 
 #work,
