@@ -118,6 +118,14 @@
     height: 180px;
 }
 
+.card-palestra-desc {
+    text-overflow: ellipsis;
+}
+
+.card-palestra {
+    height: 270px !important;
+}
+
 .palestrante-card {
     margin-bottom: 20px
 }
